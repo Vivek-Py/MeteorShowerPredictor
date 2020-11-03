@@ -4,3 +4,13 @@ Looking into the night sky and seeing stars, planets, and meteor showers can oft
 <p align="center">
 <img src="meteor-showers/images/meteorshower.gif" alt="animated" />
 </p>
+
+## Requirements
+Python must be installed in your system with the modules like ipykernel, jupyter-client, jupyter-core, etc. In case you haven't installed any of these, There's a requirements.txt file here which will install all the required modules for you. In order to install from the file, copy and paste this command: 
+```python
+pip install -r requirements.txt
+```
+<strong>OR</strong>
+```python
+python3 pip install -r requirements.txt
+```
